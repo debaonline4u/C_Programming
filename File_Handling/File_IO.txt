@@ -1,0 +1,6 @@
+what's your name?
+My name is debashis
+what's your age?
+28.
+What's your qualification?
+MCA
