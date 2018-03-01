@@ -1,2 +1,2 @@
 # C_Programming
-Repository Contains work done in C and C++
+Repository Contains Projects done in C and C++
