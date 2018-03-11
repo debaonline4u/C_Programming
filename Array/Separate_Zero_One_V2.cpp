@@ -19,6 +19,9 @@ int * separateZeroWithOneV2(int arr[],int size)
 			temp=arr[left];
 			arr[left]=arr[right];
 			arr[right]=temp;
+			
+			left++;
+			right--;
 		}
 	}
 	
