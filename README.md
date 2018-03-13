@@ -2,42 +2,42 @@
 Repository Contains Projects done in C and C++.
 Time Complexity and Space Complexity has been discussed for every program.[Asymptotical Time and Space Complexity]
 
-Problems On Array
+# Problems On Array
 
-Finding frequency of elements in an array
-Finding Maximum difference 
-Find Pairs whose sum is X
-Majority Element
-Number occur odd times
-Segregate zero's and one's in an array
-Sum closest to ZERO
+	Finding frequency of elements in an array
+	Finding Maximum difference 
+	Find Pairs whose sum is X
+	Majority Element
+	Number occur odd times
+	Segregate zero's and one's in an array
+	Sum closest to ZERO
 
-File Handling in C
+# File Handling in C
 
-Example of File Length
-Reading Number of words in a file
-Unlimited IO in a file
-File Read and Write Example
-Use of Seek(), fputs(), fgets(), ferror() functions
+	Example of File Length
+	Reading Number of words in a file
+	Unlimited IO in a file
+	File Read and Write Example
+	Use of Seek(), fputs(), fgets(), ferror() functions
 
-Code Chef Problems
+# Code Chef Problems
 
-Chef Packaging Cupcakes
-Code Chef ATM problem
-LADDU problem
+	Chef Packaging Cupcakes
+	Code Chef ATM problem
+	LADDU problem
 
-MISC
+# MISC
 
-Print pattern Swastika
+	Print pattern Swastika
 
-Data Structure
+# Data Structure
 
-Searching Technique
+## Searching Technique
 	Linear Search
 		Both Recurssive and Iterative approach.
 	Binary Search
 		Both Recurssive and Iterative approach.
-Sorting Technique
+## Sorting Technique
 	Bubble Sort
 	Insertion Sort
 	Selection Sort
@@ -46,7 +46,7 @@ Sorting Technique
 	Heap Sort
 	Bucket Sort
 
-Linked List
+## Linked List
 	Adding Node to Linked List 
 		Add node at front, at last and at any desired location.
 	Deleting Node from Linked List
