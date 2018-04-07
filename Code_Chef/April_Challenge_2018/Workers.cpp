@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+// Workers Problem Code: CHEFWORK
+
 int main()
 {
 	int n,token=1;
@@ -66,7 +68,7 @@ an author if ti=2 or an author-translator if ti=3.
 
 Output
 ---------------
-Print a single line containing one integer — the minimum number of coins Chef has to pay.
+Print a single line containing one integer â€” the minimum number of coins Chef has to pay.
 
 Constraints
 ----------------
