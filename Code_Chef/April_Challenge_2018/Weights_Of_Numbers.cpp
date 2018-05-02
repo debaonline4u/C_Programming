@@ -43,7 +43,7 @@ int weight_Calculator(unsigned long long int num,int size,int weight)
 }
 
 int main()
-{
+{	printf("Warning !! \nThis Program is printing Wrong Result.\n");
 	long int test_case,counter=0;
 	int weight=0;
 	for(scanf("%ld",&test_case);test_case>0;test_case--)
